@@ -102,7 +102,9 @@
     ],
     "imageResize": true,
     "uniqCompNum": 1,
-    "versionPublish": "5.6.11"
+    "versionPublish": "5.6.11",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
